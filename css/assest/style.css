@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    border-radius: 1rem;
+    background-color: #000;
+    color: #fff;
+}
+
+ul {
+    color: red;
+}
+
+.desordenada {
+    color: blue;
+}
